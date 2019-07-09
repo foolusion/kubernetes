@@ -24,8 +24,9 @@ import (
 )
 
 const (
-	StorageTypeUnset = ""
-	StorageTypeETCD3 = "etcd3"
+	StorageTypeUnset    = ""
+	StorageTypeETCD3    = "etcd3"
+	StorageTypePostgres = "postgres"
 
 	DefaultCompactInterval = 5 * time.Minute
 )

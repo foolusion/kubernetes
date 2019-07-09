@@ -30,6 +30,7 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway v1.3.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.0
 	github.com/jonboulle/clockwork v0.1.0 // indirect
+	github.com/lib/pq v1.1.1
 	github.com/munnerz/goautoneg v0.0.0-20120707110453-a547fc61f48d
 	github.com/pborman/uuid v1.2.0
 	github.com/pkg/errors v0.8.0 // indirect
